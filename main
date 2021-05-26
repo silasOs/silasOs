@@ -1,0 +1,8 @@
+counter = int(0)
+import time
+import datetime
+while True:
+    print(counter)
+    counter = counter + 1
+    #print(datetime)
+    time.sleep(0.0000000001)
